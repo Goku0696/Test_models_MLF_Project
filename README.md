@@ -1,4 +1,4 @@
-# AIDI1003 - 25W Machine Learning Frameworks
+# AIDI1003 - 25W Machine Learning Frameworks Final Project (Predicting Stock Prices)
 
 Dataset used - https://www.kaggle.com/datasets/tsaustin/us-historical-stock-prices-with-earnings-data
 Models used - RandomForest, XGBoost, LSTM
